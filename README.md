@@ -4,7 +4,6 @@
 To run our code, first install our library by cloning this repository and
 running:
 ```
-cd d3m
 pip install -e .
 ```
 
